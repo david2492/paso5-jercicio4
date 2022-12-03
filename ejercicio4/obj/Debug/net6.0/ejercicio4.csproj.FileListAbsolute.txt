@@ -1,0 +1,15 @@
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\obj\Debug\net6.0\ejercicio4.csproj.AssemblyReference.cache
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\obj\Debug\net6.0\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\obj\Debug\net6.0\ejercicio4.AssemblyInfoInputs.cache
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\obj\Debug\net6.0\ejercicio4.AssemblyInfo.cs
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\obj\Debug\net6.0\ejercicio4.csproj.CoreCompileInputs.cache
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\bin\Debug\net6.0\ejercicio4.exe
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\bin\Debug\net6.0\ejercicio4.deps.json
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\bin\Debug\net6.0\ejercicio4.runtimeconfig.json
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\bin\Debug\net6.0\ejercicio4.dll
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\bin\Debug\net6.0\ejercicio4.pdb
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\obj\Debug\net6.0\ejercicio4.dll
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\obj\Debug\net6.0\refint\ejercicio4.dll
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\obj\Debug\net6.0\ejercicio4.pdb
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\obj\Debug\net6.0\ejercicio4.genruntimeconfig.cache
+C:\JONATHAN\UNAD\2 SEMESTRE\FUNDAMENTOS DE LA PROGRAMACION\UNIDAD 3 - PASO 5\ejercicio 4\ejercicio4\ejercicio4\obj\Debug\net6.0\ref\ejercicio4.dll
